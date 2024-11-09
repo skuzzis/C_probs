@@ -4,4 +4,4 @@ project(ProiecteGitHub C)
 set(CMAKE_C_STANDARD 17)
 
 add_executable(ProiecteGitHub
-        3.7.c)
+        3.18.c)
