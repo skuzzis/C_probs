@@ -1,0 +1,3 @@
+D:/new/Brave/Downloads/lab-programare/CLion 2024.2.3/ProiecteGitHub/cmake-build-debug/CMakeFiles/ProiecteGitHub.dir
+D:/new/Brave/Downloads/lab-programare/CLion 2024.2.3/ProiecteGitHub/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/new/Brave/Downloads/lab-programare/CLion 2024.2.3/ProiecteGitHub/cmake-build-debug/CMakeFiles/rebuild_cache.dir

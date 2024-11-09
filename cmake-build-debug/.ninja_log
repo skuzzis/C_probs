@@ -1,0 +1,17 @@
+# ninja log v6
+6	805	7528493135040918	CMakeFiles/ProiecteGitHub.dir/main.c.obj	97c3612ef0b0d3e
+83	196	7528523283096084	ProiecteGitHub.exe	d3df6b6289795488
+2	1075	7528531112763570	build.ninja	f2c34d69b69647d6
+5	83	7528523282318177	CMakeFiles/ProiecteGitHub.dir/3.6.c.obj	c4686e95ad281397
+5	98	7528496328346900	CMakeFiles/ProiecteGitHub.dir/3.3.c.obj	de7dcaf273fc6773
+5	150	7528515238420321	CMakeFiles/ProiecteGitHub.dir/3.4.c.obj	ce8380e7b91e9d80
+5	204	7528519749081732	CMakeFiles/ProiecteGitHub.dir/3.5.c.obj	44acfa8fd293d815
+1	406	7528531112763570	build.ninja	f2c34d69b69647d6
+18	185	7528531113501597	CMakeFiles/ProiecteGitHub.dir/3.7.c.obj	ca029c65e5f417ff
+185	315	7528531115177311	ProiecteGitHub.exe	19b5d876ab20fccd
+4	75	7528531688139623	CMakeFiles/ProiecteGitHub.dir/3.7.c.obj	ca029c65e5f417ff
+76	192	7528531688867301	ProiecteGitHub.exe	19b5d876ab20fccd
+5	83	7528531919751228	CMakeFiles/ProiecteGitHub.dir/3.7.c.obj	ca029c65e5f417ff
+83	206	7528531920529120	ProiecteGitHub.exe	19b5d876ab20fccd
+4	83	7528532305888272	CMakeFiles/ProiecteGitHub.dir/3.7.c.obj	ca029c65e5f417ff
+84	198	7528532306676178	ProiecteGitHub.exe	19b5d876ab20fccd
