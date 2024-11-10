@@ -6,7 +6,7 @@
 // Funcție pentru a verifica dacă un număr este pătrat perfect
 int pp(int n) {
   double root = sqrt(n);
-  return root == (double)(int)sqrt(n);
+  return root == (double)(int)root;
 }
 int main() {
   int x, y, z;
