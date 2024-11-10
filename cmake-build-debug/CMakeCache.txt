@@ -20,8 +20,9 @@ CMAKE_ADDR2LINE:FILEPATH=D:/new/Brave/Downloads/lab-programare/CLion 2024.2.3/bi
 //Path to a program.
 CMAKE_AR:FILEPATH=D:/new/Brave/Downloads/lab-programare/CLion 2024.2.3/bin/mingw/bin/ar.exe
 
-//No help, variable specified on the command line.
-CMAKE_BUILD_TYPE:UNINITIALIZED=Debug
+//Choose the type of build, options are: None Debug Release RelWithDebInfo
+// MinSizeRel ...
+CMAKE_BUILD_TYPE:STRING=Debug
 
 //Enable colored diagnostics throughout.
 CMAKE_COLOR_DIAGNOSTICS:BOOL=ON
@@ -88,8 +89,8 @@ CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/ProiecteGitHub
 //Path to a program.
 CMAKE_LINKER:FILEPATH=D:/new/Brave/Downloads/lab-programare/CLion 2024.2.3/bin/mingw/bin/ld.exe
 
-//No help, variable specified on the command line.
-CMAKE_MAKE_PROGRAM:UNINITIALIZED=D:/new/Brave/Downloads/lab-programare/CLion 2024.2.3/bin/ninja/win/x64/ninja.exe
+//make program
+CMAKE_MAKE_PROGRAM:FILEPATH=D:/new/Brave/Downloads/lab-programare/CLion 2024.2.3/bin/ninja/win/x64/ninja.exe
 
 //Flags used by the linker during the creation of modules during
 // all build types.
