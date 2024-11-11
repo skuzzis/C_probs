@@ -17,8 +17,8 @@ int main()
 
             De tinut cont pentru viitor:
 
-            a >> i = a * 2^i -> a inmultit cu 2 la puterea i
-            a << i = a / 2^i -> a impartit cu 2 la puterea i
+            a << i = a * 2^i -> a inmultit cu 2 la puterea i
+            a >> i = a / 2^i -> a impartit cu 2 la puterea i
             
             if(a % 2 == 0)
                 a >>= 1; 
